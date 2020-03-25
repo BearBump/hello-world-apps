@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28a8a4c5b5027bd4edb572d339a962bd",
+    "revision": "1e4946d068849d6d857d2b3a54b9c4cf",
     "url": "/hello-world-apps/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hello-world-apps/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "8e03dd44d432c7832dc2",
+    "revision": "f88f735da96155b3b148",
     "url": "/hello-world-apps/static/css/main.981f7211.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hello-world-apps/static/js/2.1a7bbbd1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e03dd44d432c7832dc2",
-    "url": "/hello-world-apps/static/js/main.ed552f3d.chunk.js"
+    "revision": "f88f735da96155b3b148",
+    "url": "/hello-world-apps/static/js/main.36617e9a.chunk.js"
   },
   {
     "revision": "cee8b5d4062a769bf485",
